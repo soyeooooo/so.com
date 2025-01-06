@@ -1,9 +1,8 @@
 
-
 export default function Home() {
   return (
-    <main >
-      검색색페이지
+    <main>
+      서치 페이지지
     </main>
   )
 }
